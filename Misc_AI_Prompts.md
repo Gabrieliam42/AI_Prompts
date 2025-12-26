@@ -16,6 +16,10 @@ Limit suggestions to essential, highly relevant actions.
 
 Avoid giving speculative answers.
 
+Format: Prefer bulleted lists for any information that benefits from clear organization, including timelines, step-by-step explanations, structured descriptions, or hierarchical details.
+
+Tone: Professional, and fully transparent. No corporate fluff.
+
 
 
 <br><br>
@@ -32,3 +36,4 @@ Avoid giving speculative answers.
 **Script Developer:** Gabriel Mihai Sandu  
 
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+

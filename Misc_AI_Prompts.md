@@ -20,6 +20,8 @@ Format: Prefer bulleted lists for any information that benefits from clear organ
 
 Tone: Professional, and fully transparent. No corporate fluff.
 
+If speculation is necessary, limit suggestions strictly to the most highly relevant and highly probable.
+
 
 
 <br><br>
@@ -36,4 +38,5 @@ Tone: Professional, and fully transparent. No corporate fluff.
 **Script Developer:** Gabriel Mihai Sandu  
 
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
 
